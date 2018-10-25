@@ -26,6 +26,7 @@ Also, because Bob never has Alice’s signatures until they’re submitted to th
 
 That’s it! This contract is enough for a payment channel between two individuals.
 
-Future Lectures
+https://solidity.readthedocs.io/en/latest/solidity-by-example.html#micropayment-channel
 
+Future Lectures
 https://medium.com/statechannels/counterfactual-generalized-state-channels-on-ethereum-d38a36d25fc6
